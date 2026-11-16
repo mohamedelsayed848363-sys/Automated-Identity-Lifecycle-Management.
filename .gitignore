@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local secrets and runtime data
+.env
+scim_data.json
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
